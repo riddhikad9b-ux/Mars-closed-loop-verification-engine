@@ -14,11 +14,17 @@ A production-grade, fail-closed verification and autonomous telemetry orchestrat
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/riddhikad9b-ux/mars-closed-loop-verification-engine.git](https://github.com/riddhikad9b-ux/mars-closed-loop-verification-engine.git)
+   git clone https://github.com/riddhikad9b-ux/mars-closed-loop-verification-engine.git
+
    cd mars-closed-loop-verification-engine
+
+   
 Install dependencies:
 pip install -r requirements.txt
+
+
 Run the master verification and simulation engine:
+
 python main.py
 📂 Project Architecture
 mars-closed-loop-verification-engine/
